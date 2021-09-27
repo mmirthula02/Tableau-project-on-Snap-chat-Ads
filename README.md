@@ -8,3 +8,7 @@ Tableau dashboard project for analyzing social media data in tableau where we wi
 - Who are paid to target you
 - Countries who expenditure on snapchat ads are increased and decreased
 - Others
+
+
+![Dashboard 1](https://user-images.githubusercontent.com/51138087/134882277-3158b18e-acd8-4d8e-89bc-b57653a08cb5.png)
+
